@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="CryptoExchange.Net" Version="3.6.0" />
     <packagereference Include="Microsoft.NET.Test.Sdk" Version="15.9.0-preview-20180807-05"></packagereference>
     <PackageReference Include="Moq" Version="4.9.0" />
     <packagereference Include="NUnit" Version="3.10.1"></packagereference>
